@@ -1,0 +1,10 @@
+package com.hello.FirstProject;
+
+public class Hellocontroller {
+
+	public String hello(){
+		System.out.println("iam from first project sb");
+		return "iam from first project sb";
+	}
+	
+}
